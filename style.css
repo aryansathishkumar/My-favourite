@@ -30,7 +30,7 @@ h2 {
 
 p {
     font-family: cursive;
-    font-size: 20px
+    font-size: 40px;
 }
 
 #home {
@@ -76,4 +76,9 @@ p {
 
 html {
     scroll-behavior: smooth;
+}
+
+section {
+    height: 1000px;
+    width: 100%;
 }
